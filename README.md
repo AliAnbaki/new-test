@@ -1,2 +1,2 @@
 # new-test
-adding new line (ppull data from git hub to git)
+adding new line (pull data from git hub to git)
